@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calc_determinan_with_csharp", "calc_determinan_with_csharp\calc_determinan_with_csharp.csproj", "{2B2843B3-5619-4A4F-AC06-E138B9B72ED7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B2843B3-5619-4A4F-AC06-E138B9B72ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B2843B3-5619-4A4F-AC06-E138B9B72ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B2843B3-5619-4A4F-AC06-E138B9B72ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B2843B3-5619-4A4F-AC06-E138B9B72ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ABB4F0C-F463-4123-81CE-36E238432548}
+	EndGlobalSection
+EndGlobal

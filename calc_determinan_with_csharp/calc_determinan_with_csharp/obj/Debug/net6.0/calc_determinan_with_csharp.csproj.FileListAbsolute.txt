@@ -1,0 +1,15 @@
+A:\projects\programming\calc_determinan_with_csharp\calc_determinan_with_csharp\obj\Debug\net6.0\calc_determinan_with_csharp.csproj.AssemblyReference.cache
+A:\projects\programming\calc_determinan_with_csharp\calc_determinan_with_csharp\obj\Debug\net6.0\calc_determinan_with_csharp.GeneratedMSBuildEditorConfig.editorconfig
+A:\projects\programming\calc_determinan_with_csharp\calc_determinan_with_csharp\obj\Debug\net6.0\calc_determinan_with_csharp.AssemblyInfoInputs.cache
+A:\projects\programming\calc_determinan_with_csharp\calc_determinan_with_csharp\obj\Debug\net6.0\calc_determinan_with_csharp.AssemblyInfo.cs
+A:\projects\programming\calc_determinan_with_csharp\calc_determinan_with_csharp\obj\Debug\net6.0\calc_determinan_with_csharp.csproj.CoreCompileInputs.cache
+A:\projects\programming\calc_determinan_with_csharp\calc_determinan_with_csharp\bin\Debug\net6.0\calc_determinan_with_csharp.exe
+A:\projects\programming\calc_determinan_with_csharp\calc_determinan_with_csharp\bin\Debug\net6.0\calc_determinan_with_csharp.deps.json
+A:\projects\programming\calc_determinan_with_csharp\calc_determinan_with_csharp\bin\Debug\net6.0\calc_determinan_with_csharp.runtimeconfig.json
+A:\projects\programming\calc_determinan_with_csharp\calc_determinan_with_csharp\bin\Debug\net6.0\calc_determinan_with_csharp.dll
+A:\projects\programming\calc_determinan_with_csharp\calc_determinan_with_csharp\bin\Debug\net6.0\calc_determinan_with_csharp.pdb
+A:\projects\programming\calc_determinan_with_csharp\calc_determinan_with_csharp\obj\Debug\net6.0\calc_determinan_with_csharp.dll
+A:\projects\programming\calc_determinan_with_csharp\calc_determinan_with_csharp\obj\Debug\net6.0\refint\calc_determinan_with_csharp.dll
+A:\projects\programming\calc_determinan_with_csharp\calc_determinan_with_csharp\obj\Debug\net6.0\calc_determinan_with_csharp.pdb
+A:\projects\programming\calc_determinan_with_csharp\calc_determinan_with_csharp\obj\Debug\net6.0\calc_determinan_with_csharp.genruntimeconfig.cache
+A:\projects\programming\calc_determinan_with_csharp\calc_determinan_with_csharp\obj\Debug\net6.0\ref\calc_determinan_with_csharp.dll
