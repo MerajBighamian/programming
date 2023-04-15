@@ -1,0 +1,15 @@
+A:\projects\programming\calc_math_fromula\calc_math_fromula\bin\Debug\net6.0\calc_math_fromula.exe
+A:\projects\programming\calc_math_fromula\calc_math_fromula\bin\Debug\net6.0\calc_math_fromula.deps.json
+A:\projects\programming\calc_math_fromula\calc_math_fromula\bin\Debug\net6.0\calc_math_fromula.runtimeconfig.json
+A:\projects\programming\calc_math_fromula\calc_math_fromula\bin\Debug\net6.0\calc_math_fromula.dll
+A:\projects\programming\calc_math_fromula\calc_math_fromula\bin\Debug\net6.0\calc_math_fromula.pdb
+A:\projects\programming\calc_math_fromula\calc_math_fromula\obj\Debug\net6.0\calc_math_fromula.csproj.AssemblyReference.cache
+A:\projects\programming\calc_math_fromula\calc_math_fromula\obj\Debug\net6.0\calc_math_fromula.GeneratedMSBuildEditorConfig.editorconfig
+A:\projects\programming\calc_math_fromula\calc_math_fromula\obj\Debug\net6.0\calc_math_fromula.AssemblyInfoInputs.cache
+A:\projects\programming\calc_math_fromula\calc_math_fromula\obj\Debug\net6.0\calc_math_fromula.AssemblyInfo.cs
+A:\projects\programming\calc_math_fromula\calc_math_fromula\obj\Debug\net6.0\calc_math_fromula.csproj.CoreCompileInputs.cache
+A:\projects\programming\calc_math_fromula\calc_math_fromula\obj\Debug\net6.0\calc_math_fromula.dll
+A:\projects\programming\calc_math_fromula\calc_math_fromula\obj\Debug\net6.0\refint\calc_math_fromula.dll
+A:\projects\programming\calc_math_fromula\calc_math_fromula\obj\Debug\net6.0\calc_math_fromula.pdb
+A:\projects\programming\calc_math_fromula\calc_math_fromula\obj\Debug\net6.0\calc_math_fromula.genruntimeconfig.cache
+A:\projects\programming\calc_math_fromula\calc_math_fromula\obj\Debug\net6.0\ref\calc_math_fromula.dll
