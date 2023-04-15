@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "clac_avg_of_student/1.0.0": {
+        "runtime": {
+          "clac_avg_of_student.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "clac_avg_of_student/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

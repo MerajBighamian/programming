@@ -1,0 +1,15 @@
+A:\projects\programming\clac_avg_of_student\clac_avg_of_student\obj\Debug\net6.0\clac_avg_of_student.csproj.AssemblyReference.cache
+A:\projects\programming\clac_avg_of_student\clac_avg_of_student\obj\Debug\net6.0\clac_avg_of_student.GeneratedMSBuildEditorConfig.editorconfig
+A:\projects\programming\clac_avg_of_student\clac_avg_of_student\obj\Debug\net6.0\clac_avg_of_student.AssemblyInfoInputs.cache
+A:\projects\programming\clac_avg_of_student\clac_avg_of_student\obj\Debug\net6.0\clac_avg_of_student.AssemblyInfo.cs
+A:\projects\programming\clac_avg_of_student\clac_avg_of_student\obj\Debug\net6.0\clac_avg_of_student.csproj.CoreCompileInputs.cache
+A:\projects\programming\clac_avg_of_student\clac_avg_of_student\bin\Debug\net6.0\clac_avg_of_student.exe
+A:\projects\programming\clac_avg_of_student\clac_avg_of_student\bin\Debug\net6.0\clac_avg_of_student.deps.json
+A:\projects\programming\clac_avg_of_student\clac_avg_of_student\bin\Debug\net6.0\clac_avg_of_student.runtimeconfig.json
+A:\projects\programming\clac_avg_of_student\clac_avg_of_student\bin\Debug\net6.0\clac_avg_of_student.dll
+A:\projects\programming\clac_avg_of_student\clac_avg_of_student\bin\Debug\net6.0\clac_avg_of_student.pdb
+A:\projects\programming\clac_avg_of_student\clac_avg_of_student\obj\Debug\net6.0\clac_avg_of_student.dll
+A:\projects\programming\clac_avg_of_student\clac_avg_of_student\obj\Debug\net6.0\refint\clac_avg_of_student.dll
+A:\projects\programming\clac_avg_of_student\clac_avg_of_student\obj\Debug\net6.0\clac_avg_of_student.pdb
+A:\projects\programming\clac_avg_of_student\clac_avg_of_student\obj\Debug\net6.0\clac_avg_of_student.genruntimeconfig.cache
+A:\projects\programming\clac_avg_of_student\clac_avg_of_student\obj\Debug\net6.0\ref\clac_avg_of_student.dll
