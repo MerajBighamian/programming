@@ -1,0 +1,15 @@
+A:\projects\programming\odd_and_even_number_series\odd_and_even_number_series\bin\Debug\net6.0\odd_and_even_number_series.exe
+A:\projects\programming\odd_and_even_number_series\odd_and_even_number_series\bin\Debug\net6.0\odd_and_even_number_series.deps.json
+A:\projects\programming\odd_and_even_number_series\odd_and_even_number_series\bin\Debug\net6.0\odd_and_even_number_series.runtimeconfig.json
+A:\projects\programming\odd_and_even_number_series\odd_and_even_number_series\bin\Debug\net6.0\odd_and_even_number_series.dll
+A:\projects\programming\odd_and_even_number_series\odd_and_even_number_series\bin\Debug\net6.0\odd_and_even_number_series.pdb
+A:\projects\programming\odd_and_even_number_series\odd_and_even_number_series\obj\Debug\net6.0\odd_and_even_number_series.csproj.AssemblyReference.cache
+A:\projects\programming\odd_and_even_number_series\odd_and_even_number_series\obj\Debug\net6.0\odd_and_even_number_series.GeneratedMSBuildEditorConfig.editorconfig
+A:\projects\programming\odd_and_even_number_series\odd_and_even_number_series\obj\Debug\net6.0\odd_and_even_number_series.AssemblyInfoInputs.cache
+A:\projects\programming\odd_and_even_number_series\odd_and_even_number_series\obj\Debug\net6.0\odd_and_even_number_series.AssemblyInfo.cs
+A:\projects\programming\odd_and_even_number_series\odd_and_even_number_series\obj\Debug\net6.0\odd_and_even_number_series.csproj.CoreCompileInputs.cache
+A:\projects\programming\odd_and_even_number_series\odd_and_even_number_series\obj\Debug\net6.0\odd_and_even_number_series.dll
+A:\projects\programming\odd_and_even_number_series\odd_and_even_number_series\obj\Debug\net6.0\refint\odd_and_even_number_series.dll
+A:\projects\programming\odd_and_even_number_series\odd_and_even_number_series\obj\Debug\net6.0\odd_and_even_number_series.pdb
+A:\projects\programming\odd_and_even_number_series\odd_and_even_number_series\obj\Debug\net6.0\odd_and_even_number_series.genruntimeconfig.cache
+A:\projects\programming\odd_and_even_number_series\odd_and_even_number_series\obj\Debug\net6.0\ref\odd_and_even_number_series.dll
