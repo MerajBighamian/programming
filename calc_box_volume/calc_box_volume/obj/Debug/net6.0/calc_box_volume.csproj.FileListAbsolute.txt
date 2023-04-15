@@ -1,0 +1,15 @@
+A:\projects\programming\calc_box_volume\calc_box_volume\bin\Debug\net6.0\calc_box_volume.exe
+A:\projects\programming\calc_box_volume\calc_box_volume\bin\Debug\net6.0\calc_box_volume.deps.json
+A:\projects\programming\calc_box_volume\calc_box_volume\bin\Debug\net6.0\calc_box_volume.runtimeconfig.json
+A:\projects\programming\calc_box_volume\calc_box_volume\bin\Debug\net6.0\calc_box_volume.dll
+A:\projects\programming\calc_box_volume\calc_box_volume\bin\Debug\net6.0\calc_box_volume.pdb
+A:\projects\programming\calc_box_volume\calc_box_volume\obj\Debug\net6.0\calc_box_volume.csproj.AssemblyReference.cache
+A:\projects\programming\calc_box_volume\calc_box_volume\obj\Debug\net6.0\calc_box_volume.GeneratedMSBuildEditorConfig.editorconfig
+A:\projects\programming\calc_box_volume\calc_box_volume\obj\Debug\net6.0\calc_box_volume.AssemblyInfoInputs.cache
+A:\projects\programming\calc_box_volume\calc_box_volume\obj\Debug\net6.0\calc_box_volume.AssemblyInfo.cs
+A:\projects\programming\calc_box_volume\calc_box_volume\obj\Debug\net6.0\calc_box_volume.csproj.CoreCompileInputs.cache
+A:\projects\programming\calc_box_volume\calc_box_volume\obj\Debug\net6.0\calc_box_volume.dll
+A:\projects\programming\calc_box_volume\calc_box_volume\obj\Debug\net6.0\refint\calc_box_volume.dll
+A:\projects\programming\calc_box_volume\calc_box_volume\obj\Debug\net6.0\calc_box_volume.pdb
+A:\projects\programming\calc_box_volume\calc_box_volume\obj\Debug\net6.0\calc_box_volume.genruntimeconfig.cache
+A:\projects\programming\calc_box_volume\calc_box_volume\obj\Debug\net6.0\ref\calc_box_volume.dll
