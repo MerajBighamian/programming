@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "bmm_and_kmm/1.0.0": {
+        "runtime": {
+          "bmm_and_kmm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bmm_and_kmm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

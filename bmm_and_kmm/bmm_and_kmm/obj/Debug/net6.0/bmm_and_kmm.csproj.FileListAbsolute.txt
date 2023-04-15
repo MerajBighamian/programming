@@ -1,0 +1,15 @@
+A:\projects\programming\bmm_and_kmm\bmm_and_kmm\bin\Debug\net6.0\bmm_and_kmm.exe
+A:\projects\programming\bmm_and_kmm\bmm_and_kmm\bin\Debug\net6.0\bmm_and_kmm.deps.json
+A:\projects\programming\bmm_and_kmm\bmm_and_kmm\bin\Debug\net6.0\bmm_and_kmm.runtimeconfig.json
+A:\projects\programming\bmm_and_kmm\bmm_and_kmm\bin\Debug\net6.0\bmm_and_kmm.dll
+A:\projects\programming\bmm_and_kmm\bmm_and_kmm\bin\Debug\net6.0\bmm_and_kmm.pdb
+A:\projects\programming\bmm_and_kmm\bmm_and_kmm\obj\Debug\net6.0\bmm_and_kmm.csproj.AssemblyReference.cache
+A:\projects\programming\bmm_and_kmm\bmm_and_kmm\obj\Debug\net6.0\bmm_and_kmm.GeneratedMSBuildEditorConfig.editorconfig
+A:\projects\programming\bmm_and_kmm\bmm_and_kmm\obj\Debug\net6.0\bmm_and_kmm.AssemblyInfoInputs.cache
+A:\projects\programming\bmm_and_kmm\bmm_and_kmm\obj\Debug\net6.0\bmm_and_kmm.AssemblyInfo.cs
+A:\projects\programming\bmm_and_kmm\bmm_and_kmm\obj\Debug\net6.0\bmm_and_kmm.csproj.CoreCompileInputs.cache
+A:\projects\programming\bmm_and_kmm\bmm_and_kmm\obj\Debug\net6.0\bmm_and_kmm.dll
+A:\projects\programming\bmm_and_kmm\bmm_and_kmm\obj\Debug\net6.0\refint\bmm_and_kmm.dll
+A:\projects\programming\bmm_and_kmm\bmm_and_kmm\obj\Debug\net6.0\bmm_and_kmm.pdb
+A:\projects\programming\bmm_and_kmm\bmm_and_kmm\obj\Debug\net6.0\bmm_and_kmm.genruntimeconfig.cache
+A:\projects\programming\bmm_and_kmm\bmm_and_kmm\obj\Debug\net6.0\ref\bmm_and_kmm.dll
