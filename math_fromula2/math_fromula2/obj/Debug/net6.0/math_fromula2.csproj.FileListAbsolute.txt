@@ -1,0 +1,15 @@
+A:\projects\programming\math_fromula2\math_fromula2\bin\Debug\net6.0\math_fromula2.exe
+A:\projects\programming\math_fromula2\math_fromula2\bin\Debug\net6.0\math_fromula2.deps.json
+A:\projects\programming\math_fromula2\math_fromula2\bin\Debug\net6.0\math_fromula2.runtimeconfig.json
+A:\projects\programming\math_fromula2\math_fromula2\bin\Debug\net6.0\math_fromula2.dll
+A:\projects\programming\math_fromula2\math_fromula2\bin\Debug\net6.0\math_fromula2.pdb
+A:\projects\programming\math_fromula2\math_fromula2\obj\Debug\net6.0\math_fromula2.csproj.AssemblyReference.cache
+A:\projects\programming\math_fromula2\math_fromula2\obj\Debug\net6.0\math_fromula2.GeneratedMSBuildEditorConfig.editorconfig
+A:\projects\programming\math_fromula2\math_fromula2\obj\Debug\net6.0\math_fromula2.AssemblyInfoInputs.cache
+A:\projects\programming\math_fromula2\math_fromula2\obj\Debug\net6.0\math_fromula2.AssemblyInfo.cs
+A:\projects\programming\math_fromula2\math_fromula2\obj\Debug\net6.0\math_fromula2.csproj.CoreCompileInputs.cache
+A:\projects\programming\math_fromula2\math_fromula2\obj\Debug\net6.0\math_fromula2.dll
+A:\projects\programming\math_fromula2\math_fromula2\obj\Debug\net6.0\refint\math_fromula2.dll
+A:\projects\programming\math_fromula2\math_fromula2\obj\Debug\net6.0\math_fromula2.pdb
+A:\projects\programming\math_fromula2\math_fromula2\obj\Debug\net6.0\math_fromula2.genruntimeconfig.cache
+A:\projects\programming\math_fromula2\math_fromula2\obj\Debug\net6.0\ref\math_fromula2.dll
