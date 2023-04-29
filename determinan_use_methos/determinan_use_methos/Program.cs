@@ -53,7 +53,7 @@ namespace Calc_Determinan_With_Csharp
                 {
                     for(int j = 0; j < 3; j++)
                     {
-                        numbers[i,j] = determinan_value * numbers[i,j];
+                        numbers[i,j] =  numbers[i,j] / determinan_value;
                     }       
                 }
                 return numbers;
