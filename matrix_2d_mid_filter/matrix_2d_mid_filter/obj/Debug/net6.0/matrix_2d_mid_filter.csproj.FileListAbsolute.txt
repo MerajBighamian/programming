@@ -1,0 +1,15 @@
+A:\projects\programming\matrix_2d_mid_filter\matrix_2d_mid_filter\bin\Debug\net6.0\matrix_2d_mid_filter.exe
+A:\projects\programming\matrix_2d_mid_filter\matrix_2d_mid_filter\bin\Debug\net6.0\matrix_2d_mid_filter.deps.json
+A:\projects\programming\matrix_2d_mid_filter\matrix_2d_mid_filter\bin\Debug\net6.0\matrix_2d_mid_filter.runtimeconfig.json
+A:\projects\programming\matrix_2d_mid_filter\matrix_2d_mid_filter\bin\Debug\net6.0\matrix_2d_mid_filter.dll
+A:\projects\programming\matrix_2d_mid_filter\matrix_2d_mid_filter\bin\Debug\net6.0\matrix_2d_mid_filter.pdb
+A:\projects\programming\matrix_2d_mid_filter\matrix_2d_mid_filter\obj\Debug\net6.0\matrix_2d_mid_filter.csproj.AssemblyReference.cache
+A:\projects\programming\matrix_2d_mid_filter\matrix_2d_mid_filter\obj\Debug\net6.0\matrix_2d_mid_filter.GeneratedMSBuildEditorConfig.editorconfig
+A:\projects\programming\matrix_2d_mid_filter\matrix_2d_mid_filter\obj\Debug\net6.0\matrix_2d_mid_filter.AssemblyInfoInputs.cache
+A:\projects\programming\matrix_2d_mid_filter\matrix_2d_mid_filter\obj\Debug\net6.0\matrix_2d_mid_filter.AssemblyInfo.cs
+A:\projects\programming\matrix_2d_mid_filter\matrix_2d_mid_filter\obj\Debug\net6.0\matrix_2d_mid_filter.csproj.CoreCompileInputs.cache
+A:\projects\programming\matrix_2d_mid_filter\matrix_2d_mid_filter\obj\Debug\net6.0\matrix_2d_mid_filter.dll
+A:\projects\programming\matrix_2d_mid_filter\matrix_2d_mid_filter\obj\Debug\net6.0\refint\matrix_2d_mid_filter.dll
+A:\projects\programming\matrix_2d_mid_filter\matrix_2d_mid_filter\obj\Debug\net6.0\matrix_2d_mid_filter.pdb
+A:\projects\programming\matrix_2d_mid_filter\matrix_2d_mid_filter\obj\Debug\net6.0\matrix_2d_mid_filter.genruntimeconfig.cache
+A:\projects\programming\matrix_2d_mid_filter\matrix_2d_mid_filter\obj\Debug\net6.0\ref\matrix_2d_mid_filter.dll
