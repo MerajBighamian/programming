@@ -1,0 +1,15 @@
+A:\projects\programming\determinan_use_methos\determinan_use_methos\bin\Debug\net6.0\determinan_use_methos.exe
+A:\projects\programming\determinan_use_methos\determinan_use_methos\bin\Debug\net6.0\determinan_use_methos.deps.json
+A:\projects\programming\determinan_use_methos\determinan_use_methos\bin\Debug\net6.0\determinan_use_methos.runtimeconfig.json
+A:\projects\programming\determinan_use_methos\determinan_use_methos\bin\Debug\net6.0\determinan_use_methos.dll
+A:\projects\programming\determinan_use_methos\determinan_use_methos\bin\Debug\net6.0\determinan_use_methos.pdb
+A:\projects\programming\determinan_use_methos\determinan_use_methos\obj\Debug\net6.0\determinan_use_methos.csproj.AssemblyReference.cache
+A:\projects\programming\determinan_use_methos\determinan_use_methos\obj\Debug\net6.0\determinan_use_methos.GeneratedMSBuildEditorConfig.editorconfig
+A:\projects\programming\determinan_use_methos\determinan_use_methos\obj\Debug\net6.0\determinan_use_methos.AssemblyInfoInputs.cache
+A:\projects\programming\determinan_use_methos\determinan_use_methos\obj\Debug\net6.0\determinan_use_methos.AssemblyInfo.cs
+A:\projects\programming\determinan_use_methos\determinan_use_methos\obj\Debug\net6.0\determinan_use_methos.csproj.CoreCompileInputs.cache
+A:\projects\programming\determinan_use_methos\determinan_use_methos\obj\Debug\net6.0\determinan_use_methos.dll
+A:\projects\programming\determinan_use_methos\determinan_use_methos\obj\Debug\net6.0\refint\determinan_use_methos.dll
+A:\projects\programming\determinan_use_methos\determinan_use_methos\obj\Debug\net6.0\determinan_use_methos.pdb
+A:\projects\programming\determinan_use_methos\determinan_use_methos\obj\Debug\net6.0\determinan_use_methos.genruntimeconfig.cache
+A:\projects\programming\determinan_use_methos\determinan_use_methos\obj\Debug\net6.0\ref\determinan_use_methos.dll
