@@ -1,0 +1,17 @@
+E:\projects\programming\Advance_Calculator\Advance_Calculator\obj\Debug\net6.0-windows\Advance_Calculator.csproj.AssemblyReference.cache
+E:\projects\programming\Advance_Calculator\Advance_Calculator\obj\Debug\net6.0-windows\Advance_Calculator.Form1.resources
+E:\projects\programming\Advance_Calculator\Advance_Calculator\obj\Debug\net6.0-windows\Advance_Calculator.csproj.GenerateResource.cache
+E:\projects\programming\Advance_Calculator\Advance_Calculator\obj\Debug\net6.0-windows\Advance_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\programming\Advance_Calculator\Advance_Calculator\obj\Debug\net6.0-windows\Advance_Calculator.AssemblyInfoInputs.cache
+E:\projects\programming\Advance_Calculator\Advance_Calculator\obj\Debug\net6.0-windows\Advance_Calculator.AssemblyInfo.cs
+E:\projects\programming\Advance_Calculator\Advance_Calculator\obj\Debug\net6.0-windows\Advance_Calculator.csproj.CoreCompileInputs.cache
+E:\projects\programming\Advance_Calculator\Advance_Calculator\bin\Debug\net6.0-windows\Advance_Calculator.exe
+E:\projects\programming\Advance_Calculator\Advance_Calculator\bin\Debug\net6.0-windows\Advance_Calculator.deps.json
+E:\projects\programming\Advance_Calculator\Advance_Calculator\bin\Debug\net6.0-windows\Advance_Calculator.runtimeconfig.json
+E:\projects\programming\Advance_Calculator\Advance_Calculator\bin\Debug\net6.0-windows\Advance_Calculator.dll
+E:\projects\programming\Advance_Calculator\Advance_Calculator\bin\Debug\net6.0-windows\Advance_Calculator.pdb
+E:\projects\programming\Advance_Calculator\Advance_Calculator\obj\Debug\net6.0-windows\Advance_Calculator.dll
+E:\projects\programming\Advance_Calculator\Advance_Calculator\obj\Debug\net6.0-windows\refint\Advance_Calculator.dll
+E:\projects\programming\Advance_Calculator\Advance_Calculator\obj\Debug\net6.0-windows\Advance_Calculator.pdb
+E:\projects\programming\Advance_Calculator\Advance_Calculator\obj\Debug\net6.0-windows\Advance_Calculator.genruntimeconfig.cache
+E:\projects\programming\Advance_Calculator\Advance_Calculator\obj\Debug\net6.0-windows\ref\Advance_Calculator.dll
