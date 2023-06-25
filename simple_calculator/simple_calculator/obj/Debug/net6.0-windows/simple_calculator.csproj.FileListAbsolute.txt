@@ -1,0 +1,17 @@
+E:\projects\programming\simple_calculator\simple_calculator\bin\Debug\net6.0-windows\simple_calculator.exe
+E:\projects\programming\simple_calculator\simple_calculator\bin\Debug\net6.0-windows\simple_calculator.deps.json
+E:\projects\programming\simple_calculator\simple_calculator\bin\Debug\net6.0-windows\simple_calculator.runtimeconfig.json
+E:\projects\programming\simple_calculator\simple_calculator\bin\Debug\net6.0-windows\simple_calculator.dll
+E:\projects\programming\simple_calculator\simple_calculator\bin\Debug\net6.0-windows\simple_calculator.pdb
+E:\projects\programming\simple_calculator\simple_calculator\obj\Debug\net6.0-windows\simple_calculator.csproj.AssemblyReference.cache
+E:\projects\programming\simple_calculator\simple_calculator\obj\Debug\net6.0-windows\simple_calculator.Form1.resources
+E:\projects\programming\simple_calculator\simple_calculator\obj\Debug\net6.0-windows\simple_calculator.csproj.GenerateResource.cache
+E:\projects\programming\simple_calculator\simple_calculator\obj\Debug\net6.0-windows\simple_calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\programming\simple_calculator\simple_calculator\obj\Debug\net6.0-windows\simple_calculator.AssemblyInfoInputs.cache
+E:\projects\programming\simple_calculator\simple_calculator\obj\Debug\net6.0-windows\simple_calculator.AssemblyInfo.cs
+E:\projects\programming\simple_calculator\simple_calculator\obj\Debug\net6.0-windows\simple_calculator.csproj.CoreCompileInputs.cache
+E:\projects\programming\simple_calculator\simple_calculator\obj\Debug\net6.0-windows\simple_calculator.dll
+E:\projects\programming\simple_calculator\simple_calculator\obj\Debug\net6.0-windows\refint\simple_calculator.dll
+E:\projects\programming\simple_calculator\simple_calculator\obj\Debug\net6.0-windows\simple_calculator.pdb
+E:\projects\programming\simple_calculator\simple_calculator\obj\Debug\net6.0-windows\simple_calculator.genruntimeconfig.cache
+E:\projects\programming\simple_calculator\simple_calculator\obj\Debug\net6.0-windows\ref\simple_calculator.dll
