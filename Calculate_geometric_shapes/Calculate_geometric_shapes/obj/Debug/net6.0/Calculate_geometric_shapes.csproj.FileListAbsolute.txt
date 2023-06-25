@@ -1,0 +1,15 @@
+E:\projects\programming\Calculate_geometric_shapes\Calculate_geometric_shapes\obj\Debug\net6.0\Calculate_geometric_shapes.csproj.AssemblyReference.cache
+E:\projects\programming\Calculate_geometric_shapes\Calculate_geometric_shapes\obj\Debug\net6.0\Calculate_geometric_shapes.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\programming\Calculate_geometric_shapes\Calculate_geometric_shapes\obj\Debug\net6.0\Calculate_geometric_shapes.AssemblyInfoInputs.cache
+E:\projects\programming\Calculate_geometric_shapes\Calculate_geometric_shapes\obj\Debug\net6.0\Calculate_geometric_shapes.AssemblyInfo.cs
+E:\projects\programming\Calculate_geometric_shapes\Calculate_geometric_shapes\obj\Debug\net6.0\Calculate_geometric_shapes.csproj.CoreCompileInputs.cache
+E:\projects\programming\Calculate_geometric_shapes\Calculate_geometric_shapes\bin\Debug\net6.0\Calculate_geometric_shapes.exe
+E:\projects\programming\Calculate_geometric_shapes\Calculate_geometric_shapes\bin\Debug\net6.0\Calculate_geometric_shapes.deps.json
+E:\projects\programming\Calculate_geometric_shapes\Calculate_geometric_shapes\bin\Debug\net6.0\Calculate_geometric_shapes.runtimeconfig.json
+E:\projects\programming\Calculate_geometric_shapes\Calculate_geometric_shapes\bin\Debug\net6.0\Calculate_geometric_shapes.dll
+E:\projects\programming\Calculate_geometric_shapes\Calculate_geometric_shapes\bin\Debug\net6.0\Calculate_geometric_shapes.pdb
+E:\projects\programming\Calculate_geometric_shapes\Calculate_geometric_shapes\obj\Debug\net6.0\Calculate_geometric_shapes.dll
+E:\projects\programming\Calculate_geometric_shapes\Calculate_geometric_shapes\obj\Debug\net6.0\refint\Calculate_geometric_shapes.dll
+E:\projects\programming\Calculate_geometric_shapes\Calculate_geometric_shapes\obj\Debug\net6.0\Calculate_geometric_shapes.pdb
+E:\projects\programming\Calculate_geometric_shapes\Calculate_geometric_shapes\obj\Debug\net6.0\Calculate_geometric_shapes.genruntimeconfig.cache
+E:\projects\programming\Calculate_geometric_shapes\Calculate_geometric_shapes\obj\Debug\net6.0\ref\Calculate_geometric_shapes.dll
