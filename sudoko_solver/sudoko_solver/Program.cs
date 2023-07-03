@@ -88,17 +88,17 @@ namespace SudokuSolver
             // create sudoku puzzle.
             int[,] puzzle = new int[9, 9];
             // test sudoku
-            //board[0, 0] = 1;
-            //board[0, 1] = 2;
-            //board[1, 2] = 3;
-            //board[0, 3] = 4;
-            //board[0, 4] = 5;
-            //board[3, 5] = 6;
-            //board[0, 6] = 7;
-            //board[7, 7] = 4;
-            //board[7, 8] = 9;
+            //puzzle[0, 0] = 1;
+            //puzzle[0, 1] = 2;
+            //puzzle[1, 2] = 3;
+            //puzzle[0, 3] = 4;
+            //puzzle[0, 4] = 5;
+            //puzzle[3, 5] = 6;
+            //puzzle[0, 6] = 7;
+            //puzzle[7, 7] = 4;
+            //puzzle[7, 8] = 9;
 
-            for(int i = 0; i < 9; i++)
+            for (int i = 0; i < 9; i++)
             {
                 for(int j = 0; j<9; j++)
                 {
