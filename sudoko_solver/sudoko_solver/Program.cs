@@ -84,20 +84,36 @@ namespace SudokuSolver
 
         public static void Main()
         {
+
             // create sudoku puzzle.
-            int[,] board = new int[9, 9];
-            board[0, 0] = 1;
-            board[0, 1] = 2;
-            board[1, 2] = 3;
-            board[0, 3] = 4;
-            board[0, 4] = 5;
-            board[3, 5] = 6;
-            board[0, 6] = 7;
-            board[7, 7] = 9;
-            board[7, 8] = 9;
+            int[,] puzzle = new int[9, 9];
+            // test sudoku
+            //board[0, 0] = 1;
+            //board[0, 1] = 2;
+            //board[1, 2] = 3;
+            //board[0, 3] = 4;
+            //board[0, 4] = 5;
+            //board[3, 5] = 6;
+            //board[0, 6] = 7;
+            //board[7, 7] = 4;
+            //board[7, 8] = 9;
+
+            for(int i = 0; i < 9; i++)
+            {
+                for(int j = 0; j<9; j++)
+                {
+                    Console.WriteLine("Please enter value of element row {1} and column {0} (for blank enter one space) :", j+1, i+1);
+                    string userInput = Console.ReadLine();
+                    if(userInput == " ")
+                    {
+                        userInput = "0";
+                    }
+                    puzzle[i, j] = Convert.ToInt32(userInput);
+                }
+            }
 
             // create sudoku object
-            Sudoku sudoku = new Sudoku(board);
+            Sudoku sudoku = new Sudoku(puzzle);
 
             //solve sodoku puzzle.
             bool solved = sudoku.Solve();
@@ -105,13 +121,15 @@ namespace SudokuSolver
             // print sudoko solved
             if (solved)
             {
+                Console.WriteLine('\n');
                 for (int i = 0; i < 9; i++)
                 {
                     for (int j = 0; j < 9; j++)
                     {
-                        Console.Write(sudoku.puzzle[i, j] + " ");
+                        Console.Write(sudoku.puzzle[i, j] + " | ");
+                        
                     }
-                    Console.WriteLine();
+                    Console.WriteLine("\n-----------------------------------");
                 }
             }
             else
