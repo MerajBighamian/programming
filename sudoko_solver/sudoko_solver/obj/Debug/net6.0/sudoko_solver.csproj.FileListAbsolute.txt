@@ -1,0 +1,15 @@
+E:\projects\programming\sudoko_solver\sudoko_solver\bin\Debug\net6.0\sudoko_solver.exe
+E:\projects\programming\sudoko_solver\sudoko_solver\bin\Debug\net6.0\sudoko_solver.deps.json
+E:\projects\programming\sudoko_solver\sudoko_solver\bin\Debug\net6.0\sudoko_solver.runtimeconfig.json
+E:\projects\programming\sudoko_solver\sudoko_solver\bin\Debug\net6.0\sudoko_solver.dll
+E:\projects\programming\sudoko_solver\sudoko_solver\bin\Debug\net6.0\sudoko_solver.pdb
+E:\projects\programming\sudoko_solver\sudoko_solver\obj\Debug\net6.0\sudoko_solver.csproj.AssemblyReference.cache
+E:\projects\programming\sudoko_solver\sudoko_solver\obj\Debug\net6.0\sudoko_solver.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\programming\sudoko_solver\sudoko_solver\obj\Debug\net6.0\sudoko_solver.AssemblyInfoInputs.cache
+E:\projects\programming\sudoko_solver\sudoko_solver\obj\Debug\net6.0\sudoko_solver.AssemblyInfo.cs
+E:\projects\programming\sudoko_solver\sudoko_solver\obj\Debug\net6.0\sudoko_solver.csproj.CoreCompileInputs.cache
+E:\projects\programming\sudoko_solver\sudoko_solver\obj\Debug\net6.0\sudoko_solver.dll
+E:\projects\programming\sudoko_solver\sudoko_solver\obj\Debug\net6.0\refint\sudoko_solver.dll
+E:\projects\programming\sudoko_solver\sudoko_solver\obj\Debug\net6.0\sudoko_solver.pdb
+E:\projects\programming\sudoko_solver\sudoko_solver\obj\Debug\net6.0\sudoko_solver.genruntimeconfig.cache
+E:\projects\programming\sudoko_solver\sudoko_solver\obj\Debug\net6.0\ref\sudoko_solver.dll

@@ -242,7 +242,7 @@
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(358, 542);
+            ClientSize = new Size(354, 524);
             Controls.Add(btnMandeh);
             Controls.Add(btnPower);
             Controls.Add(btnDivide);
