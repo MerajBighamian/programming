@@ -1,0 +1,17 @@
+E:\projects\programming\sodoku_solver_windows_form\sodoku_solver_windows_form\bin\Debug\net6.0-windows\sodoku_solver_windows_form.exe
+E:\projects\programming\sodoku_solver_windows_form\sodoku_solver_windows_form\bin\Debug\net6.0-windows\sodoku_solver_windows_form.deps.json
+E:\projects\programming\sodoku_solver_windows_form\sodoku_solver_windows_form\bin\Debug\net6.0-windows\sodoku_solver_windows_form.runtimeconfig.json
+E:\projects\programming\sodoku_solver_windows_form\sodoku_solver_windows_form\bin\Debug\net6.0-windows\sodoku_solver_windows_form.dll
+E:\projects\programming\sodoku_solver_windows_form\sodoku_solver_windows_form\bin\Debug\net6.0-windows\sodoku_solver_windows_form.pdb
+E:\projects\programming\sodoku_solver_windows_form\sodoku_solver_windows_form\obj\Debug\net6.0-windows\sodoku_solver_windows_form.csproj.AssemblyReference.cache
+E:\projects\programming\sodoku_solver_windows_form\sodoku_solver_windows_form\obj\Debug\net6.0-windows\sodoku_solver_windows_form.Form1.resources
+E:\projects\programming\sodoku_solver_windows_form\sodoku_solver_windows_form\obj\Debug\net6.0-windows\sodoku_solver_windows_form.csproj.GenerateResource.cache
+E:\projects\programming\sodoku_solver_windows_form\sodoku_solver_windows_form\obj\Debug\net6.0-windows\sodoku_solver_windows_form.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\programming\sodoku_solver_windows_form\sodoku_solver_windows_form\obj\Debug\net6.0-windows\sodoku_solver_windows_form.AssemblyInfoInputs.cache
+E:\projects\programming\sodoku_solver_windows_form\sodoku_solver_windows_form\obj\Debug\net6.0-windows\sodoku_solver_windows_form.AssemblyInfo.cs
+E:\projects\programming\sodoku_solver_windows_form\sodoku_solver_windows_form\obj\Debug\net6.0-windows\sodoku_solver_windows_form.csproj.CoreCompileInputs.cache
+E:\projects\programming\sodoku_solver_windows_form\sodoku_solver_windows_form\obj\Debug\net6.0-windows\sodoku_solver_windows_form.dll
+E:\projects\programming\sodoku_solver_windows_form\sodoku_solver_windows_form\obj\Debug\net6.0-windows\refint\sodoku_solver_windows_form.dll
+E:\projects\programming\sodoku_solver_windows_form\sodoku_solver_windows_form\obj\Debug\net6.0-windows\sodoku_solver_windows_form.pdb
+E:\projects\programming\sodoku_solver_windows_form\sodoku_solver_windows_form\obj\Debug\net6.0-windows\sodoku_solver_windows_form.genruntimeconfig.cache
+E:\projects\programming\sodoku_solver_windows_form\sodoku_solver_windows_form\obj\Debug\net6.0-windows\ref\sodoku_solver_windows_form.dll

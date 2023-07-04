@@ -7,11 +7,40 @@ namespace SudokuSolver
         // base puzzle
         private int[,] puzzle;
 
-        // setter and getter for sudoko puzzle
+        
         public Sudoku(int[,] puzzle)
         {
             this.puzzle = puzzle;
         }
+
+        public int this[int row, int col]
+        {
+            get { return puzzle[row, col]; }
+            set { puzzle[row, col] = value; }
+        }
+        
+
+        public bool InitPuzzleSovle()
+        {
+            bool solve = false;
+            for(int i = 0; i<9;  i++)
+            {
+                for(int j = 0; j<9; j++)
+                {
+                    int num = puzzle[i, j];
+                    if (IsSafe(i, j, num))
+                    {
+                        solve = true;
+                    }
+                    else
+                    {
+                        solve = false;
+                    }
+                }
+            }
+            return solve;
+        }
+
 
         // method for solve sodoku puzzle
         public bool Solve()
@@ -40,9 +69,11 @@ namespace SudokuSolver
 
                         // If we reach this point, the puzzle is not solvable.
                         return false;
-                        Console.WriteLine("puzzle is not solved!");
+
+
 
                     }
+                    
                 }
             }
 
@@ -87,36 +118,48 @@ namespace SudokuSolver
 
             // create sudoku puzzle.
             int[,] puzzle = new int[9, 9];
-            // test sudoku
-            //puzzle[0, 0] = 1;
-            //puzzle[0, 1] = 2;
-            //puzzle[1, 2] = 3;
-            //puzzle[0, 3] = 4;
-            //puzzle[0, 4] = 5;
-            //puzzle[3, 5] = 6;
-            //puzzle[0, 6] = 7;
-            //puzzle[7, 7] = 4;
-            //puzzle[7, 8] = 9;
 
-            for (int i = 0; i < 9; i++)
-            {
-                for(int j = 0; j<9; j++)
-                {
-                    Console.WriteLine("Please enter value of element row {1} and column {0} (for blank enter one space) :", j+1, i+1);
-                    string userInput = Console.ReadLine();
-                    if(userInput == " ")
-                    {
-                        userInput = "0";
-                    }
-                    puzzle[i, j] = Convert.ToInt32(userInput);
-                }
-            }
+            // test sudoku
+            puzzle[0, 0] = 1;
+            puzzle[0, 1] = 0;
+            puzzle[1, 2] = 0;
+            puzzle[0, 3] = 0;
+            puzzle[0, 4] = 2;
+            puzzle[3, 5] = 0;
+            puzzle[0, 6] = 0;
+            puzzle[7, 7] = 9;
+            puzzle[7, 8] = 9;
+
+            //for (int i = 0; i < 9; i++)
+            //{
+            //    for(int j = 0; j<9; j++)
+            //    {
+            //        Console.WriteLine("Please enter value of element row {1} and column {0} (for blank enter one space) :", j+1, i+1);
+            //        string userInput = Console.ReadLine();
+            //        if(userInput == " ")
+            //        {
+            //            userInput = "0";
+            //        }
+
+
+            //        puzzle[i, j] = Convert.ToInt32(userInput);
+            //    }
+            //}
+
+            // for input sodoku elements by user, uncommnet this code 
+
+
 
             // create sudoku object
             Sudoku sudoku = new Sudoku(puzzle);
 
+            bool solved = true;
             //solve sodoku puzzle.
-            bool solved = sudoku.Solve();
+            if (sudoku.InitPuzzleSovle())
+            {
+                solved = true && sudoku.Solve();
+            }
+
 
             // print sudoko solved
             if (solved)
@@ -134,7 +177,7 @@ namespace SudokuSolver
             }
             else
             {
-                Console.WriteLine("The puzzle is not solvable.");
+                Console.WriteLine("this sodoku is not solvable");
             }
         }
     }

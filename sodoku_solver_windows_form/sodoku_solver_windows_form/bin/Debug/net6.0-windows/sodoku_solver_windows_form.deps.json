@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "sodoku_solver_windows_form/1.0.0": {
+        "runtime": {
+          "sodoku_solver_windows_form.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sodoku_solver_windows_form/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
