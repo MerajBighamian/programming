@@ -20,28 +20,6 @@ namespace SudokuSolver
         }
         
 
-        public bool InitPuzzleSovle()
-        {
-            bool solve = false;
-            for(int i = 0; i<9;  i++)
-            {
-                for(int j = 0; j<9; j++)
-                {
-                    int num = puzzle[i, j];
-                    if (IsSafe(i, j, num))
-                    {
-                        solve = true;
-                    }
-                    else
-                    {
-                        solve = false;
-                    }
-                }
-            }
-            return solve;
-        }
-
-
         // method for solve sodoku puzzle
         public bool Solve()
         {
@@ -127,7 +105,7 @@ namespace SudokuSolver
             puzzle[0, 4] = 2;
             puzzle[3, 5] = 0;
             puzzle[0, 6] = 0;
-            puzzle[7, 7] = 9;
+            puzzle[7, 7] = 1;
             puzzle[7, 8] = 9;
 
             //for (int i = 0; i < 9; i++)
@@ -153,16 +131,12 @@ namespace SudokuSolver
             // create sudoku object
             Sudoku sudoku = new Sudoku(puzzle);
 
-            bool solved = true;
             //solve sodoku puzzle.
-            if (sudoku.InitPuzzleSovle())
-            {
-                solved = true && sudoku.Solve();
-            }
+            bool solved = sudoku.Solve();
 
 
             // print sudoko solved
-            if (solved)
+            if (solved==true)
             {
                 Console.WriteLine('\n');
                 for (int i = 0; i < 9; i++)
